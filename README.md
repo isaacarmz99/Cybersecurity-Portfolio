@@ -1,4 +1,3 @@
-# Cybersecurity-Portfolio
 # Cybersecurity Portfolio
 
 Welcome to my **Cybersecurity Portfolio**! This repository showcases my skills, projects, certifications, and experiences in the cybersecurity field. Whether you are a recruiter, collaborator, or fellow enthusiast, I hope you find the content insightful and valuable.
